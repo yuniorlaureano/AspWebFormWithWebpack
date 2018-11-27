@@ -1,5 +1,7 @@
 {
   "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-task": "^2.1.0",
     "ts-loader": "^5.3.0",
     "typescript": "^3.1.6",
     "webpack": "^4.26.0"
